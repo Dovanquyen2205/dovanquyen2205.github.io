@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<thuoc>
+    <thuoc>
+        <congDung>trị viêm họng</congDung>
+        <donViTinh>viên</donViTinh>
+        <giaBan>7000.0</giaBan>
+        <hanSuDung>2024-12-31T14:34:49.978+07:00</hanSuDung>
+        <maBenhNhan>ĐVQ220420040002</maBenhNhan>
+        <maThuoc>P0001</maThuoc>
+        <ngaySanXuat>2024-01-01T00:00:00+07:00</ngaySanXuat>
+        <STT>2</STT>
+        <soLuong>152</soLuong>
+        <tenThuoc>Penicillin</tenThuoc>
+        <tongTien>0.0</tongTien>
+    </thuoc>
+    <thuoc>
+        <congDung>trị viêm họng</congDung>
+        <donViTinh>viên</donViTinh>
+        <giaBan>5000.0</giaBan>
+        <hanSuDung>2025-05-01T23:12:10.059+07:00</hanSuDung>
+        <maBenhNhan>MDP090920040001</maBenhNhan>
+        <maThuoc>C0001</maThuoc>
+        <ngaySanXuat>2024-05-01T23:12:07.809+07:00</ngaySanXuat>
+        <STT>2</STT>
+        <soLuong>10</soLuong>
+        <tenThuoc>Cephalexin</tenThuoc>
+        <tongTien>50000.0</tongTien>
+    </thuoc>
+    <thuoc>
+        <congDung>abc</congDung>
+        <donViTinh>viên</donViTinh>
+        <giaBan>10000.0</giaBan>
+        <hanSuDung>2025-01-17T23:13:04.812+07:00</hanSuDung>
+        <maBenhNhan>ĐQV200820040001</maBenhNhan>
+        <maThuoc>C0002</maThuoc>
+        <ngaySanXuat>2024-03-15T23:13:01.701+07:00</ngaySanXuat>
+        <STT>3</STT>
+        <soLuong>15</soLuong>
+        <tenThuoc>Ceftriaxone</tenThuoc>
+        <tongTien>150000.0</tongTien>
+    </thuoc>
+    <thuoc>
+        <congDung>giảm ho, long đờm</congDung>
+        <donViTinh>túi</donViTinh>
+        <giaBan>190000.0</giaBan>
+        <hanSuDung>2025-05-23T23:18:11.201+07:00</hanSuDung>
+        <maBenhNhan>HXH240120040001</maBenhNhan>
+        <maThuoc>H0002</maThuoc>
+        <ngaySanXuat>2024-01-20T00:00:00+07:00</ngaySanXuat>
+        <STT>4</STT>
+        <soLuong>10</soLuong>
+        <tenThuoc>Herbal Lozenges</tenThuoc>
+        <tongTien>0.0</tongTien>
+    </thuoc>
+    <thuoc>
+        <congDung>sạch gàu, hết ngứa da đầu</congDung>
+        <donViTinh>chai</donViTinh>
+        <giaBan>10000.0</giaBan>
+        <hanSuDung>2025-05-16T23:20:52.860+07:00</hanSuDung>
+        <maBenhNhan>NKHA260620040001</maBenhNhan>
+        <maThuoc>S0001</maThuoc>
+        <ngaySanXuat>2024-03-15T00:00:00+07:00</ngaySanXuat>
+        <STT>5</STT>
+        <soLuong>12</soLuong>
+        <tenThuoc>Selsun Anti Dandruff Shampoo</tenThuoc>
+        <tongTien>0.0</tongTien>
+    </thuoc>
+    <thuoc>
+        <congDung>trị đau răng</congDung>
+        <donViTinh>viên</donViTinh>
+        <giaBan>25000.0</giaBan>
+        <hanSuDung>2024-11-22T23:15:11.262+07:00</hanSuDung>
+        <maBenhNhan>NXT160920040001</maBenhNhan>
+        <maThuoc>I0001</maThuoc>
+        <ngaySanXuat>2023-05-03T23:15:01.677+07:00</ngaySanXuat>
+        <STT>6</STT>
+        <soLuong>10</soLuong>
+        <tenThuoc>Ibuprofen</tenThuoc>
+        <tongTien>250000.0</tongTien>
+    </thuoc>
+    <thuoc>
+        <congDung>bổ sung vitamin E</congDung>
+        <donViTinh>chai</donViTinh>
+        <giaBan>105000.0</giaBan>
+        <hanSuDung>2025-04-01T23:16:18.741+07:00</hanSuDung>
+        <maBenhNhan>LĐQ060800040001</maBenhNhan>
+        <maThuoc>V0001</maThuoc>
+        <ngaySanXuat>2024-04-01T23:16:15.065+07:00</ngaySanXuat>
+        <STT>7</STT>
+        <soLuong>1</soLuong>
+        <tenThuoc>Vitamin E</tenThuoc>
+        <tongTien>105000.0</tongTien>
+    </thuoc>
+    <thuoc>
+        <congDung>Tăng cường tuần hoàn máu</congDung>
+        <donViTinh>hộp</donViTinh>
+        <giaBan>200000.0</giaBan>
+        <hanSuDung>2025-05-01T23:17:00.433+07:00</hanSuDung>
+        <maBenhNhan>ĐHHP100620040001</maBenhNhan>
+        <maThuoc>P0002</maThuoc>
+        <ngaySanXuat>2024-01-05T00:00:00+07:00</ngaySanXuat>
+        <STT>8</STT>
+        <soLuong>2</soLuong>
+        <tenThuoc>Pharmacity Hoạt Huyết</tenThuoc>
+        <tongTien>400000.0</tongTien>
+    </thuoc>
+    <thuoc>
+        <congDung>giảm ho, long đờm</congDung>
+        <donViTinh>túi</donViTinh>
+        <giaBan>19000.0</giaBan>
+        <hanSuDung>2025-05-23T23:18:11.201+07:00</hanSuDung>
+        <maBenhNhan>HXH240120040001</maBenhNhan>
+        <maThuoc>H0003</maThuoc>
+        <ngaySanXuat>2024-01-20T00:00:00+07:00</ngaySanXuat>
+        <STT>9</STT>
+        <soLuong>10</soLuong>
+        <tenThuoc>Herbal Lozenges</tenThuoc>
+        <tongTien>0.0</tongTien>
+    </thuoc>
+    <thuoc>
+        <congDung>bổ sung vitamin</congDung>
+        <donViTinh>hộp</donViTinh>
+        <giaBan>79000.0</giaBan>
+        <hanSuDung>2025-05-02T23:19:56.316+07:00</hanSuDung>
+        <maBenhNhan>PTP130820040001</maBenhNhan>
+        <maThuoc>B0001</maThuoc>
+        <ngaySanXuat>2024-05-02T00:00:00+07:00</ngaySanXuat>
+        <STT>10</STT>
+        <soLuong>5</soLuong>
+        <tenThuoc>Berocca Performance</tenThuoc>
+        <tongTien>0.0</tongTien>
+    </thuoc>
+    <thuoc>
+        <congDung>sạch gàu, hết ngứa da đầu</congDung>
+        <donViTinh>viên</donViTinh>
+        <giaBan>10000.0</giaBan>
+        <hanSuDung>2025-05-16T23:20:52.860+07:00</hanSuDung>
+        <maBenhNhan>NKHA260620040001</maBenhNhan>
+        <maThuoc>S0001</maThuoc>
+        <ngaySanXuat>2024-03-15T00:00:00+07:00</ngaySanXuat>
+        <STT>11</STT>
+        <soLuong>12</soLuong>
+        <tenThuoc>Selsun Anti Dandruff Shampoo</tenThuoc>
+        <tongTien>120000.0</tongTien>
+    </thuoc>
+    <thuoc>
+        <congDung>bổ sung chất</congDung>
+        <donViTinh>hộp</donViTinh>
+        <giaBan>174000.0</giaBan>
+        <hanSuDung>2024-10-24T23:22:07.040+07:00</hanSuDung>
+        <maBenhNhan>TVT200320040001</maBenhNhan>
+        <maThuoc>G0001</maThuoc>
+        <ngaySanXuat>2024-02-15T00:00:00+07:00</ngaySanXuat>
+        <STT>12</STT>
+        <soLuong>12</soLuong>
+        <tenThuoc>Greenbird</tenThuoc>
+        <tongTien>0.0</tongTien>
+    </thuoc>
+    <thuoc>
+        <congDung>giảm ho</congDung>
+        <donViTinh>hộp</donViTinh>
+        <giaBan>60000.0</giaBan>
+        <hanSuDung>2024-12-21T23:24:19.297+07:00</hanSuDung>
+        <maBenhNhan>HXH240120040001</maBenhNhan>
+        <maThuoc>E0001</maThuoc>
+        <ngaySanXuat>2024-04-04T23:24:16.169+07:00</ngaySanXuat>
+        <STT>13</STT>
+        <soLuong>1</soLuong>
+        <tenThuoc>Eugica</tenThuoc>
+        <tongTien>0.0</tongTien>
+    </thuoc>
+</thuoc>
